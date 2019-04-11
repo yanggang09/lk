@@ -1,0 +1,1 @@
+安装WeChatSetup2.4.1.79  把WeChat.exe和bd.dll放入微信的目录，然后打开  转发.exe  启动微信
